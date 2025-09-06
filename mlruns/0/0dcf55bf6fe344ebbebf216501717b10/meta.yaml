@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Bhavya%20Mittal/Downloads/mlops_project/mlruns/0/0dcf55bf6fe344ebbebf216501717b10/artifacts
+end_time: 1757138769533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dcf55bf6fe344ebbebf216501717b10
+run_name: classy-roo-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757138759755
+status: 3
+tags: []
+user_id: BhavyaMittal
